@@ -1,0 +1,27 @@
+,roc_auc,est,pca,pca__conf__n_components
+0,0.6551330008312553,0.6424639818813026,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+1,0.6372768408062525,0.6448778745542979,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+2,0.6561183628893859,0.6431121865609594,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+3,0.6497577863311585,0.6399063669329487,passthrough,
+4,0.633548430576382,0.644256353896831,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+5,0.6448896826282695,0.6447911037348769,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+6,0.640736124287627,0.6438753261275888,passthrough,
+7,0.6241238199081661,0.6456881109683739,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+8,0.6351967731540011,0.6454339590618354,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None
+9,0.6375450743540585,0.6452738429265857,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(n_components=0.95),
+                                 slice(2, 82, None))])",None

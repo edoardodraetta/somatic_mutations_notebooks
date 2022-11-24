@@ -1,0 +1,21 @@
+,roc_auc,pca,pca__conf__n_components,svm__C,svm__class_weight,svm__gamma
+0,0.6773196236841185,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+1,0.6779026126968519,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+2,0.6779758104237735,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+3,0.6829918352488429,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+4,0.6519245554218478,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+5,0.6618975800252567,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+6,0.669746245374737,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",0.95,1.0,balanced,0.001
+7,0.6405883583894134,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+8,0.6741176858746389,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
+9,0.6591448638291277,"ColumnTransformer(transformers=[('ots+of', 'passthrough', [0, 1]),
+                                ('conf', PCA(), slice(2, 82, None))])",,1.0,balanced,0.001
